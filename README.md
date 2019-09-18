@@ -1,5 +1,5 @@
 # node-jwt-authentication
-## We have used `@hapi/joi` library for object validation. Check out the [documentation](https://hapi.dev/family/joi/?v=16.1.1) to see more awsome features
+### We have used `@hapi/joi` library for object validation. Check out the [documentation](https://hapi.dev/family/joi/?v=16.1.1) to see more awsome features
 
 1. Clone or download the repo
 2. Run `npm install` to add all the node modules
